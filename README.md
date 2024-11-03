@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning bachelor's of computer application 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 12av21/12av21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

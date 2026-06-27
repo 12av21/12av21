@@ -1,77 +1,72 @@
 <div align="center">
 
-# 👋 Hi, I'm Adarsh Verma
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey there! I'm Adarsh Verma
 
-### 🛡️ AI • Cybersecurity • Cloud • Threat Engineering
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=🛡️+Threat+Engineer+in+Progress;🤖+AI+%7C+Cybersecurity+%7C+Cloud;🚀+Building+Future+Tech;💻+Open+Source+Learner;🔥+Always+Learning+Something+New"/>
 
-<p>
-  <em>Building intelligent systems that are secure, scalable, and impactful.</em>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:6C63FF,100:FF00FF&height=220&section=header&text=Welcome%20to%20My%20GitHub&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+%7C+Cybersecurity+%7C+Cloud;Threat+Engineer+in+Progress;MCA+Student+%40+University+of+Allahabad;Open+Source+Learner;Building+the+Future+with+AI"/>
-
-<img src="https://komarev.com/ghpvc/?username=12av21&style=for-the-badge&color=0e75b6" />
+<img src="https://komarev.com/ghpvc/?username=12av21&label=Visitors&style=for-the-badge&color=blueviolet"/>
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 🌌 About Me
 
 ```yaml
-Name: Adarsh Verma
-Location: India 🇮🇳
-Education: MCA | University of Allahabad
+👨‍💻 Name: Adarsh Verma
 
-Focus:
-  - Artificial Intelligence
-  - Cybersecurity
-  - Threat Engineering
-  - Cloud Computing
-  - Malware Analysis
+🎓 MCA Student
 
-Mission:
-  Build secure AI-powered solutions that solve real-world problems.
+📍 India
 
-Currently Learning:
-  - Python
-  - AI Agents & LLMs
-  - Cloud Security
-  - DevSecOps
-  - Malware Analysis
+🛡️ Cybersecurity Enthusiast
+
+🤖 AI Explorer
+
+☁️ Cloud Learner
+
+🚀 Future Tech Entrepreneur
 ```
 
----
-
-# 💻 Tech Stack
-
-### Programming
-🐍 Python • ⚡ JavaScript • 💻 C • 🗄️ SQL
-
-### AI & ML
-PyTorch • TensorFlow • OpenCV • YOLO • LLMs
-
-### Web
-React • Node.js • Express • FastAPI • HTML • CSS • Tailwind CSS
-
-### Database
-MongoDB • MySQL
-
-### Cloud
-AWS • Google Cloud
-
-### Cybersecurity
-Linux • Networking • Threat Detection • Digital Forensics • Malware Analysis
+> ## ⚡ "Building intelligent systems that protect the digital world."
 
 ---
 
-# 🚧 Featured Projects
+# 🎯 Current Focus
 
-🛡️ AI Security Gateway
+🛡️ Threat Engineering
+
+🤖 AI Agents
+
+☁️ Cloud Security
+
+🔥 Malware Analysis
+
+💻 Open Source
+
+🚀 Startup Building
+
+---
+
+# ⚔️ Tech Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,js,react,nodejs,express,html,css,tailwind,mongodb,mysql,git,github,linux,vscode,aws,gcp"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
 
 🌲 AI Forest Fire Detection
 
-🌍 Smart Community Intelligence Platform (SCIP)
+🛡️ AI Security Gateway
+
+🌍 Smart Community Intelligence Platform
 
 🔍 Malware Analysis Lab
 
@@ -79,51 +74,84 @@ Linux • Networking • Threat Detection • Digital Forensics • Malware Anal
 
 ---
 
-# 🎯 2026 Goals
-
-- 🛡️ Become a Threat Engineer
-- 🤖 Build production-ready AI systems
-- ☁️ Master Cloud Security
-- 🌍 Contribute to Open Source
-- 🏆 Win Hackathons
-- 🚀 Build a global AI & Security startup
-
----
-
-# 📊 GitHub Analytics
+# 📊 GitHub Dashboard
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=12av21&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=12av21&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=12av21&show_icons=true&theme=radical&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=12av21&theme=radical&hide_border=true"/>
+
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=12av21&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img width="55%" src="https://github-readme-activity-graph.vercel.app/graph?username=12av21&theme=react-dark&hide_border=true"/>
+
 </p>
 
----
-
-# 🏆 GitHub Trophies
-
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=12av21&theme=algolia&no-frame=true&margin-w=15"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=12av21&layout=compact&theme=radical&hide_border=true"/>
+
 </p>
 
 ---
 
-# 🌐 Connect With Me
+# 🏆 Achievements
 
-- GitHub: https://github.com/12av21
-- LinkedIn: Add your LinkedIn here
-- Portfolio: Coming Soon 🚀
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=12av21&theme=radical&no-frame=true&row=2&column=4"/>
+
+</p>
+
+---
+
+# 🎯 2026 Mission
+
+✨ Master AI
+
+🛡️ Become a Threat Engineer
+
+☁️ Learn Cloud Security
+
+🌍 Contribute to Open Source
+
+🏆 Win Hackathons
+
+🚀 Build a Global AI & Cybersecurity Company
+
+---
+
+# 🌐 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/12av21">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome"/>
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-## ⚡ "Learn. Build. Secure. Repeat."
+## 💙 Thanks for Visiting!
 
-⭐ Thanks for visiting my profile!
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
+
+### ⭐ If you like my work, consider following me.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:6C63FF,100:00F5FF&height=120&section=footer"/>
 
 </div>

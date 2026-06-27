@@ -1,81 +1,162 @@
-<h1 align="center">Hi 👋, I'm Adarsh Verma</h1>
+<div align="center">
+
+# Hi 👋 I'm Adarsh Verma
+
+### 🚀 AI • Cybersecurity • Cloud • Threat Engineering
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+AI+Powered+Security+Solutions;Threat+Engineer+in+Progress;MCA+Student;Open+Source+Contributor;Future+Tech+Entrepreneur" />
+
+</div>
+
+---
+
+# 💫 About Me
+
+I'm **Adarsh Verma**, an MCA student passionate about creating the next generation of secure and intelligent software.
+
+My interests lie at the intersection of
+
+- 🤖 Artificial Intelligence
+- 🛡️ Cybersecurity
+- ☁️ Cloud Computing
+- 🔥 Malware Analysis
+- ⚡ Threat Engineering
+- 🌍 Open Source
+
+I enjoy solving real-world problems through technology and aspire to build products that improve security, automation, and digital trust.
+
+---
+
+# 🚀 Current Mission
+
+```text
+Learn → Build → Contribute → Innovate → Launch
+```
+
+Working every day toward becoming an AI Security Engineer and building technology that can scale globally.
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced Python
+- Threat Engineering
+- Malware Analysis
+- Cloud Security
+- AI Agents & LLMs
+- MERN Stack
+- DevSecOps
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+Python • JavaScript • C • SQL
+
+### Frontend
+
+React • HTML • CSS • Tailwind CSS
+
+### Backend
+
+Node.js • Express • FastAPI
+
+### Database
+
+MongoDB • MySQL
+
+### Cloud
+
+AWS • Google Cloud
+
+### Cybersecurity
+
+Linux
+Networking
+Threat Detection
+Digital Forensics
+Malware Analysis
+
+---
+
+# 🚀 Featured Projects
+
+🌲 AI Forest Fire Detection
+
+🛡️ AI Security Gateway
+
+🌍 Smart Community Intelligence Platform
+
+💼 Portfolio Website
+
+✍️ Technical Blog
+
+---
+
+# 🎯 2026 Goals
+
+✅ Become a Threat Engineer
+
+✅ Master AI & Cloud
+
+✅ Build impactful Open Source projects
+
+✅ Win Hackathons
+
+✅ Earn Security Certifications
+
+✅ Build a Global Tech Company
+
+---
+
+# 📈 GitHub Stats
 
 <p align="center">
-🚀 MCA Student | AI Engineer in Progress | Cybersecurity Enthusiast | Future Threat Engineer
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=12av21&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=12av21&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=12av21&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 🏆 GitHub Trophy
 
-I'm Adarsh Verma, an MCA student passionate about building intelligent, secure, and scalable technology.
-
-I enjoy solving real-world problems using Artificial Intelligence, Cybersecurity, and Cloud Computing. My goal is to create products that make a meaningful impact and eventually build a technology company focused on AI-powered security solutions.
-
-Currently, I'm sharpening my skills through hands-on projects, hackathons, and open-source contributions.
+<img src="https://github-profile-trophy.vercel.app/?username=12av21&theme=algolia&no-frame=true&row=2&column=4"/>
 
 ---
 
-## 🌱 Currently Learning
+# 🐍 Contribution Graph
 
-- 🛡️ Threat Engineering
-- ☁️ Cloud Security
-- 🤖 Artificial Intelligence & LLMs
-- 🐍 Python
-- 🌐 MERN Stack
-- 🔥 Malware Analysis
+<img src="https://raw.githubusercontent.com/12av21/12av21/output/github-contribution-grid-snake.svg"/>
 
 ---
 
-## 🚀 Current Projects
+# 🌐 Connect With Me
 
-- 🌲 AI Forest Fire Detection System
-- 🛡️ AI Security Gateway
-- 🌍 Smart Community Intelligence Platform (SCIP)
-- 💻 Personal Portfolio
-- ✍️ Technical Blogging
+GitHub
 
----
+LinkedIn
 
-## 🛠️ Tech Stack
+Portfolio
 
-**Languages**
-Python • JavaScript • C • SQL
-
-**Frontend**
-HTML • CSS • React • Tailwind CSS
-
-**Backend**
-Node.js • Express • FastAPI
-
-**Database**
-MongoDB • MySQL
-
-**Cloud**
-AWS • Google Cloud
-
-**Cybersecurity**
-Linux • Networking • Threat Detection • Malware Analysis
+Email
 
 ---
 
-## 🎯 2026 Goals
+<div align="center">
 
-- Build production-ready AI applications
-- Become a Threat Engineer
-- Contribute to Open Source
-- Publish technical blogs
-- Win Hackathons
-- Earn cloud and cybersecurity certifications
+### ⚡ "Secure the Future. Build with Intelligence."
 
----
+⭐ Thanks for visiting my profile!
 
-## 📫 Connect With Me
-
-- GitHub: https://github.com/12av21 
-- LinkedIn: https://linkedin.com/in/YOUR_LINK
-- Portfolio: Coming Soon 🚀
-
----
-
-> "Building secure AI systems for the future."
+</div>
